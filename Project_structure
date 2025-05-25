@@ -1,0 +1,21 @@
+/personal-dashboard
+  /public
+    /images
+      profile.jpg
+  /src
+    /components
+      Navbar.js
+      Profile.js
+      Academics.js
+      Skills.js
+      Extras.js
+    /data
+      data.json
+    /styles
+      globals.css
+    pages
+      index.js
+      _app.js
+  next.config.js
+  package.json
+  README.md
