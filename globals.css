@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Add material icons */
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
