@@ -1,0 +1,65 @@
+{
+  "profile": {
+    "name": "John Doe",
+    "title": "Full Stack Developer",
+    "bio": "Passionate about building web applications with modern technologies.",
+    "contact": {
+      "email": "john.doe@example.com",
+      "phone": "+1 (123) 456-7890",
+      "location": "San Francisco, CA"
+    },
+    "image": "/images/profile.jpg"
+  },
+  "academics": [
+    {
+      "institution": "Tech University",
+      "degree": "Master of Computer Science",
+      "year": "2022-2024"
+    },
+    {
+      "institution": "State College",
+      "degree": "Bachelor of Science in IT",
+      "year": "2018-2022"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tech Solutions Inc.",
+      "position": "Frontend Developer",
+      "duration": "2023-Present",
+      "description": "Developing responsive web applications using React and Next.js"
+    },
+    {
+      "company": "Web Dev Agency",
+      "position": "Intern",
+      "duration": "2022",
+      "description": "Assisted in building client websites and maintaining codebase"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Tailwind CSS",
+    "Git",
+    "Python",
+    "SQL"
+  ],
+  "extras": {
+    "goals": [
+      "Learn advanced React patterns",
+      "Contribute to open source",
+      "Get AWS Certified"
+    ],
+    "hobbies": [
+      "Photography",
+      "Hiking",
+      "Reading tech blogs"
+    ],
+    "certifications": [
+      "Google Cloud Certified",
+      "React Developer Certification"
+    ]
+  }
+}
